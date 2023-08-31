@@ -2,7 +2,7 @@
 :root {
     --primary: #AB7442;
     --light: #F5F5F5;
-    --dark: #353535;
+   
 }
 
 .fw-medium {
@@ -568,7 +568,7 @@
 
 /*** Footer ***/
 .footer {
-    background: linear-gradient(rgba(53, 53, 53, .7), rgba(53, 53, 53, .7)), url(../img/footer.jpg) center center no-repeat;
+    background: #E06770;
     background-size: cover;
 }
 
