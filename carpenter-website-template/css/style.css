@@ -250,7 +250,7 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(53, 53, 53, .7), rgba(53, 53, 53, .7)), url(../img/carousel-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(53, 53, 53, .7), rgba(53, 53, 53, .7)), url(/Blue\ Modern\ Business\ Webinar\ banner.png) center center no-repeat;
     background-size: cover;
 }
 
@@ -449,13 +449,13 @@
 }
 
 .team-item .team-social .btn {
-    color: var(--primary);
+    color: #64BED9;
     background: #FFFFFF;
 }
 
 .team-item .team-social .btn:hover {
     color: #FFFFFF;
-    background: var(--primary);
+    background: #64BED9;
 }
 
 .team-item:hover .team-social {
@@ -585,7 +585,7 @@
 }
 
 .footer .btn.btn-social:hover {
-    color: var(--primary);
+    color: #64BED9;
 }
 
 .footer .btn.btn-link {
@@ -608,11 +608,7 @@
     margin-right: 10px;
 }
 
-.footer .btn.btn-link:hover {
-    color: var(--primary);
-    letter-spacing: 1px;
-    box-shadow: none;
-}
+
 
 .footer .copyright {
     padding: 25px 0;
@@ -620,13 +616,9 @@
     border-top: 1px solid rgba(256, 256, 256, .1);
 }
 
-.footer .copyright a {
-    color: var(--light);
-}
 
-.footer .copyright a:hover {
-    color: var(--primary);
-}
+
+
 
 span.rise-shake {
     animation: jump-shaking 0.83s infinite;
